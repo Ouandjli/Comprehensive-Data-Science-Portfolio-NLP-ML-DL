@@ -3,9 +3,13 @@ https://raw.githubusercontent.com/Ouandjli/Comprehensive-Data-Science-Portfolio-
 
 
 ## Présentation de mes projets
-Ce portfolio regroupe divers projets en science des données, couvrant des algorithmes supervisés et non supervisés, avec des applications en NLP, apprentissage profond, et apprentissage automatique. Chaque projet démontre mon engagement envers la transformation des données en insights exploitables et la création de solutions analytiques pratiques.
+Bienvenue dans mon portfolio de science des données ! Ce portfolio regroupe une variété de projets mettant en lumière mes compétences en apprentissage automatique, apprentissage profond, et traitement du langage naturel (NLP). Chaque projet illustre ma capacité à transformer des données complexes en insights exploitables, tout en créant des solutions analytiques concrètes et pratiques.
 
-Explorez mes projets pour en savoir plus sur mes compétences en :
-- NLP (Traitement du Langage Naturel)
-- Apprentissage profond (Deep Learning)
-- Apprentissage automatique (Machine Learning)
+Explorez mes projets pour découvrir mes compétences en :
+
+- NLP (Traitement du Langage Naturel) : Traitement et analyse des textes pour extraire des informations utiles.
+- Apprentissage profond (Deep Learning) : Modélisation avec des réseaux neuronaux pour des tâches complexes comme la reconnaissance d'images et le traitement de séquences.
+- Apprentissage automatique (Machine Learning) : Utilisation de techniques de machine learning supervisées et non supervisées pour la classification, la régression, la segmentation, et plus encore.
+- Algorithmes supervisés et non supervisés : Modélisation de données à l’aide d’algorithmes comme les forêts aléatoires, les K-means, les SVM, et autres pour résoudre des problèmes d’analyse de données.
+
+Chaque projet est conçu pour démontrer mes compétences en transformation de données, modélisation prédictive, et visualisation, avec un accent particulier sur l’efficacité et la précision des solutions.
