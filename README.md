@@ -1,5 +1,6 @@
 # Comprehensive-Data-Science-Portfolio-NLP-ML-DL
-https://raw.githubusercontent.com/Ouandjli/Comprehensive-Data-Science-Portfolio-NLP-ML-DL/refs/heads/main/portfolio.webp
+https://raw.githubusercontent.com
+
 
 ## Présentation de mes projets
 Ce portfolio regroupe divers projets en science des données, couvrant des algorithmes supervisés et non supervisés, avec des applications en NLP, apprentissage profond, et apprentissage automatique. Chaque projet démontre mon engagement envers la transformation des données en insights exploitables et la création de solutions analytiques pratiques.
